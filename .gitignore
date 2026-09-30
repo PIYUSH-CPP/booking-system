@@ -1,0 +1,25 @@
+# Build
+build/
+.gradle/
+out/
+
+# IDE
+.idea/
+*.iml
+*.iws
+
+# Logs
+*.log
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Keep example file in repo
+!.env.example
+
+# OS
+.DS_Store
+Thumbs.db
+gradle/
